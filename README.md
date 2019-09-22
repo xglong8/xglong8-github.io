@@ -10,17 +10,12 @@
 ![这是谁！](/fig/IronMan6.png)
 
 
-<center><font color="green" size="4" face="微软雅黑">早发白帝城</font>   
-
-<font color="white" size="4" face="微软雅黑">李白</font>   
-
-<font color="orange" size="4" face="微软雅黑">朝辞白帝彩云间</font>   
-
-<font color="amber" size="5" face="微软雅黑">千里江陵一日还</font>   
-
-<font color="amber" size="6" face="微软雅黑">两岸猿声啼不住</font>   
-
-<font color="amber" size="7" face="微软雅黑">轻舟已过万重山</font></center>
+<br><font color="green" size="4" face="微软雅黑">早发白帝城</font></br>
+<br><font color="white" size="4" face="微软雅黑">李白</font></br>
+<br><font color="orange" size="4" face="微软雅黑">朝辞白帝彩云间</font></br>
+<br><font color="amber" size="5" face="微软雅黑">千里江陵一日还</font></br>
+<br><font color="amber" size="6" face="微软雅黑">两岸猿声啼不住</font></br>
+<br><font color="amber" size="7" face="微软雅黑">轻舟已过万重山</font></br>
 
 
 # 表格
