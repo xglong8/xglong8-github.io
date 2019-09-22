@@ -1,4 +1,3 @@
-<body>
 <table><tr><td bgcolor=lightgray>
 
 # 第一次建个人网页， 要写点什么才显得不是**_第一次_**？
@@ -43,5 +42,3 @@
 
 这个网页的地址--[链接](https://xglong8.github.io)   
 邮箱地址[xglong8@gmai.com](mailto:xglong8@gmai.com)
-
-</body>
