@@ -17,7 +17,7 @@
 
 ---
 
-<!-- <center> -->
+<center>
 
 # 听说可以插入图片，来试试
 
@@ -31,7 +31,7 @@
 # <font color="amber" size="6" face="微软雅黑">两岸猿声啼不住</font>
 # <font color="amber" size="7" face="微软雅黑">轻舟已过万重山</font>
 
-<!-- </center> -->
+</center>
 
 
 # 表格
@@ -45,5 +45,5 @@
 >>> 鲁迅确实说过
 >>>> 鲁迅累了
 
-这个网页的地址--[链接](https://xglong8.github.io)
+这个网页的地址--[链接](https://xglong8.github.io)   
 邮箱地址[xglong8@gmai.com](mailto:xglong8@gmai.com)
