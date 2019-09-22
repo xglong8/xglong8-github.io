@@ -1,3 +1,4 @@
+<body>
 <table><tr><td bgcolor=lightgray>
 
 # 第一次建个人网页， 要写点什么才显得不是**_第一次_**？
@@ -29,10 +30,6 @@
 </center>
 
 
-这个网页的地址--[链接](https://xglong8.github.io)
-
-邮箱地址[xglong8@gmai.com](mailto:xglong8@gmai.com)
-
 # 表格
 
 张飞 | 关羽 | 赵云
@@ -43,3 +40,8 @@
 >> 鲁迅说，我没有，不是我，别胡说
 >>> 鲁迅确实说过
 >>>> 鲁迅累了
+
+这个网页的地址--[链接](https://xglong8.github.io)   
+邮箱地址[xglong8@gmai.com](mailto:xglong8@gmai.com)
+
+</body>
