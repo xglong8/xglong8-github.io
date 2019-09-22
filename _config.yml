@@ -230,4 +230,4 @@ page404:
   banner_img_height: 80  # available: 0 - 100
   subtitle: 'Page not found'
 
-theme: jekyll-theme-cayman
+theme: fluid
