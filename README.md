@@ -4,6 +4,7 @@
 # 第一次建个人网页， 要写点什么才显得不是**_第一次_**？
 
 </td></tr></table>
+
 ---
 
 ## 有了，放点古文，增加深度
@@ -44,5 +45,5 @@
 >>> 鲁迅确实说过
 >>>> 鲁迅累了
 
-这个网页的地址--[链接](https://xglong8.github.io)   
+这个网页的地址--[链接](https://xglong8.github.io)
 邮箱地址[xglong8@gmai.com](mailto:xglong8@gmai.com)
