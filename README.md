@@ -29,5 +29,5 @@
 >>> 鲁迅确实说过
 >>>> 鲁迅累了
 
-这个网页的地址--[链接](https://xglong8.github.io)   
+原网页地址--[链接](https://xglong8.github.io/first_blog)   
 邮箱地址[longxiaogang@163.com](mailto:longxiaogang@163.com)
