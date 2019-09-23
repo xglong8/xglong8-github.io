@@ -3,6 +3,12 @@
   <head>
   <meta charset="utf-8">
   <title>来了老弟</title>
+  <style media="screen">
+    *{
+      font-size: 32px;
+      color:inherit;
+    }
+  </style>
   </head>
 <body style="background-color: white;background-repeat:round;
 filter:alpha(opacity=50); background:url(fig/bcf3.jpg);" >
@@ -91,21 +97,21 @@ filter:alpha(opacity=50); background:url(fig/bcf3.jpg);" >
         <li><input type="checkbox" name='a'>我</input></li>
       </ol>
     <br/>哪个朝代持续时间长？
-    <select>
+    <input type="text" list="list1">
+    <datalist id="list1">
       <option>周</option>
       <option>汉</option>
       <option>唐</option>
       <option>清</option>
-    </select>
-    <br/>你想穿越到哪个朝代？
-    <input type="text" list="list1">
-    <datalist id="list1">
+    </datalist>
+    <br/><p>你想穿越到哪个朝代？</p>
+    <select>
       <option>秦末</option>
       <option>三国</option>
       <option>十六国</option>
       <option>隋末</option>
       <option>五代</option>
-    </datalist>
+    </select>
     <br/>你的生日是？<br/><input type="datetime-local" name="bdaytime">
     <input type="button" onclick="alert('其实啥也不会提交，哈哈')" value="点我提交">
     <br/><input type="image" src="fig/timg.jpg" onclick="alert('别点了，啥也没有')" width="70px">点我跳转
