@@ -6,9 +6,8 @@
 
 ---
 
-# 听说可以插入图片，来试试
-![这是谁！](/fig/IronMan6.png)
-
+# 听说可以插入图片，来试试(图片跑了)
+<!-- ![这是谁！](/fig/IronMan6.png) -->
 
 <center>
 <br><font color="green" size="4" face="微软雅黑">早发白帝城</font>
@@ -31,4 +30,4 @@
 >>>> 鲁迅累了
 
 这个网页的地址--[链接](https://xglong8.github.io)   
-邮箱地址[xglong8@gmai.com](mailto:longxiaogang@163.com)
+邮箱地址[longxiaogang@163.com](mailto:longxiaogang@163.com)
