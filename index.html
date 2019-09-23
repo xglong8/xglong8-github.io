@@ -3,14 +3,19 @@
   <head>
   <meta charset="utf-8">
   <title>来了老弟</title>
-  <style media="screen">
+  <style media="screen" type="text/css">
     *{
       font-size: 32px;
      }
+     body{
+       background-color: white;
+       background-image: url(fig/bcfe.jpg);
+       background-size: cover;
+       filter:alpha(opacity=50);
+     }
   </style>
   </head>
-<body style="background-color: white;background-repeat:round;
-filter:alpha(opacity=50); background:url(fig/bcf3.jpg);" >
+<body>
   <h1 style="text-align:center;font-family:times;color:green;background-color:lightblue;font-size:36;">
     <b>为往圣继绝学</b>
   </h1>
@@ -113,7 +118,7 @@ filter:alpha(opacity=50); background:url(fig/bcf3.jpg);" >
     </select>
     （你一定要活着回来啊！）
     <br/>你的生日是？<br/><input type="datetime-local" name="bdaytime">
-    <input type="buttom" width="50px" onclick="alert('其实啥也不会提交，哈哈')" style="font-size:34;width:130px;" value="点我提交">
+    <input type="buttom" onclick="alert('其实啥也不会提交，哈哈')" style="font-size:24; width:130px;" value="点我提交">
     <br/><br/><br><input type="image" src="fig/timg.jpg" onclick="alert('别点了，啥也没有')" width="70px"><---点我跳转
   </form>
   <br/>
