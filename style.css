@@ -1,9 +1,16 @@
 /* 先设置各类共同的属性，再分别设置类中各元素的独特属性 */
 body{
   background-image: url(icon/bg.jpg);
+  position:absolute;
+  top:0;
+  left:0;
+  height:100%;
+  width:100%;
+  background-position: center 0;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+
 }
 .part1{
 position:absolute;
