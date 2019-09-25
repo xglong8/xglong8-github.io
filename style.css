@@ -3,6 +3,7 @@ body{
   background-image: url(icon/bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
 .part1{
 position:absolute;
