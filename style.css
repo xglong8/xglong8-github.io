@@ -4,8 +4,8 @@ body{
   position:absolute;
   top:0;
   left:0;
-  height:100%;
-  width:100%;
+  height:device-height;
+  width:device-width;
   background-position: center 0;
   background-repeat: no-repeat;
   background-size: cover;
