@@ -1,0 +1,85 @@
+  .class1 img {
+    position:absolute;
+    width:400px;
+    height:180px;
+    left:50px;
+    top:50px;
+    float:left;
+  }
+  .class1 img:hover{
+    width:550px;
+    height:250px;
+    transition-delay: 50ms;
+    transition-timing-function: ease-in-out;
+    transition-duration: 500ms;
+  }
+  .class2 img {
+    position: absolute;
+    top:50px;
+    left:650px;
+    float:left;
+    width:180px;
+    height:180px;
+
+  }
+  .class2 img:hover{
+    width:250px;
+    height:250px;
+    transition-delay: 50ms;
+    transition-timing-function: ease-in-out;
+    transition-duration: 400ms;
+  }
+  .class3 img {
+    width:260px;
+    height:180px;
+    background-color: orange;
+    position: absolute;
+    top:50px;
+    left:950px;
+    float:left;
+
+  }
+  .class3 img:hover{
+    width:360px;
+    height:250px;
+    background-color: yellow;
+    transition-delay: 50ms;
+    transition-timing-function: ease-in-out;
+    transition-duration: 400ms;
+  }
+  p {
+    font-family: Yahei, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    font-size: 30px;
+    background-color: lightblue;
+    text-shadow: -1px -1px 1px blue; /* 水平 垂直 模糊程度 颜色  */
+    position: relative;
+    padding-right:10px;
+    padding-left:10px;
+  }
+  a:hover {
+    color: Orange;
+    text-shadow: -1px -1px 1px orange; /* 水平 垂直 模糊程度 颜色  */
+  }
+  a:active {
+    color: yellow;
+    text-shadow: -1px -1px 1px yellow; /* 水平 垂直 模糊程度 颜色  */
+  }
+  a:after {
+    color: red;
+    text-shadow: -1px -1px 1px red; /* 水平 垂直 模糊程度 颜色  */
+  }
+  .class1 p {
+    width:330px;
+    top:-50px;
+    left:70px;
+  }
+  .class2 p {
+    width:120px;
+    top:-170px;
+    left:660px;
+  }
+  .class3 p {
+    width:210px;
+    top:-290px;
+    left:960px;
+  }
