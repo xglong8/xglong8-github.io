@@ -24,13 +24,13 @@ left:50px;
 top:50px;
 float:left;
 }
-.class2 img {
-  width:180px;
-  left:650px;
-}
 .class1 img {
   width:400px;
   left:50px;
+}
+.class2 img {
+  width:180px;
+  left:650px;
 }
 .class3 img {
   width:260px;
@@ -80,7 +80,7 @@ p {
 .class2 p {
   width:120px;
   top:-170px;
-  left:660px;
+  left:670px;
 }
 .class3 p {
   width:210px;
