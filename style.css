@@ -29,12 +29,17 @@ float:left;
   left:50px;
 }
 .class2 img {
-  width:180px;
+  width:300px;
   left:650px;
 }
 .class3 img {
+  width:180px;
+  left:1150px;
+}
+.class4 img {
   width:260px;
-  left:950px;
+  top:360px;
+  left:50px;
 }
 img:hover{
   height:250px;
@@ -46,10 +51,13 @@ img:hover{
   width:550px;
 }
 .class2 img:hover{
-  width:250px;
+  width:420px;
 }
 .class3 img:hover{
-  width:360px;
+  width:250px;
+}
+.class4 img:hover{
+  width:480px;
 }
 a:hover {
   color: Orange;
@@ -78,12 +86,16 @@ p {
   left:70px;
 }
 .class2 p {
-  width:120px;
+  width:225px;
   top:-170px;
   left:670px;
 }
 .class3 p {
-  width:210px;
+  width:120px;
   top:-290px;
-  left:960px;
+  left:1170px;
 }
+.class4 p {
+  width:210px;
+  top:-100px;
+  left:65px;
